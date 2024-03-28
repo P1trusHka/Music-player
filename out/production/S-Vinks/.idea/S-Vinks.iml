@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javafx-media-21-ea+24" level="project" />
+    <orderEntry type="library" name="jmf-2.1.1e" level="project" />
   </component>
 </module>

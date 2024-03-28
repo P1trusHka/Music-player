@@ -2,9 +2,11 @@
   <library name="javafx-media-21-ea+24">
     <CLASSES>
       <root url="jar://$USER_HOME$/Downloads/javafx-media-21-ea+24.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javafx-media-21-ea+24.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/javafx-media-21-ea+24.jar!/" recursive="false" />
     <jarDirectory url="jar://$USER_HOME$/Downloads/javafx-media-21-ea+24.jar!/" recursive="false" />
   </library>
 </component>

@@ -1,7 +1,8 @@
 package javaapplication;
+import javax.media.*;
 import java.io.File;
 import java.io.IOException;
-import javax.media.*;
+//import java.media.*;
 import java.net.URL;
 public class MediaPlayer extends javax.swing.JFrame {
     Player ap=null;
