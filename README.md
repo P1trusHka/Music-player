@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/P1trusHka/The-Sound/blob/main/Logo2.0.jpg"  height="160" width="160" />
+  <img src="https://github.com/P1trusHka/S-Vinks/blob/main/decoration/Logo2.0.jpg"  height="160" width="160" />
 </p>
 <h1 align="center">S-Vinks</h1></li>
 
