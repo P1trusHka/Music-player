@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\misap\\untitled7\\build\\classes\\java\\main;C:\\Users\\misap\\untitled7\\build\\resources\\main'
+-d 'C:\\Users\\misap\\untitled7\\build\\docs\\javadoc'
+-doctitle 'untitled7 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'untitled7 1.0-SNAPSHOT API'
+'C:\\Users\\misap\\untitled7\\src\\main\\java\\org\\example\\ButtonMovementGUI.java'
