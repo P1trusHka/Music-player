@@ -1,6 +1,6 @@
 # Player
-
-[![NPM version](https://img.shields.io/npm/v/unconfig?color=CC8899&label=)](https://github.com/P1trusHka/Player)
+![version](https://img.shields.io/badge/v.0.0.1%20beta-CC8899)
+![GitHub License](https://img.shields.io/github/license/P1trushka/Player?style=flat&color=CC8899)
 
 This is a project that allows users to create playlists and listen to music.
 
