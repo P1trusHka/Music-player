@@ -5,13 +5,12 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import java.awt.*;
 import java.awt.event.*;
-
+import java.io.File;
+import java.awt.FlowLayout;
 public class ButtonMovementGUI extends JFrame {
     int schetcic = 0;
     public ButtonMovementGUI() {
-        setTitle("");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
         JPanel panel = new JPanel();
         panel.setLayout(new GridLayout(1, 3));
 
@@ -78,8 +77,43 @@ public class ButtonMovementGUI extends JFrame {
             }
         });
 */
-        setSize(600, 300);
+        setSize(1100, 700);
         setVisible(true);
+        setTitle("S-Vinks");
+        /**
+         * try to make a search
+         */
+        /*
+        final JFileChooser fileChooser = new JFileChooser();
+        final JEditorPane document = new JEditorPane();
+        panel.add(new JScrollPane(document), BorderLayout.CENTER);
+
+        JButton open = new JButton("Open");
+        open.addActionListener( new ActionListener() {
+            public void actionPerformed(ActionEvent ae) {
+                int result = fileChooser.showOpenDialog(panel);
+                if (result==JFileChooser.APPROVE_OPTION) {
+                    File file = fileChooser.getSelectedFile();
+                    try {
+                        document.setPage(file.toURI().toURL());
+                    } catch(Exception e) {
+                        e.printStackTrace();
+                    }
+                }
+            }
+        });
+        panel.add(open, BorderLayout.NORTH);
+
+        f.setContentPane(gui);
+        f.pack();
+        f.setSize(900,700);
+        f.setLocationByPlatform(true);
+
+        f.setVisible(true);
+        f.setResizable(false);*/
+        /**
+         * what about list of compositions?
+         */
     }
 
     public static void main(String[] args) {
