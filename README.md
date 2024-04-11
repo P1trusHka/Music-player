@@ -7,7 +7,7 @@ This project is a simple music player application that allows users to play thei
 ## Dependencies
 - Python 3
 - PyQt5
-- 
+
 ## Installation
 
 To install the project, simply clone the repository and navigate to the project directory:
