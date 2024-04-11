@@ -2,8 +2,12 @@
 ![version](https://img.shields.io/badge/v.0.0.1%20beta-CC8899)
 ![GitHub License](https://img.shields.io/github/license/P1trushka/Player?style=flat&color=CC8899)
 
-This is a project that allows users to create playlists and listen to music.
+This project is a simple music player application that allows users to play their favorite songs.
 
+## Dependencies
+- Python 3
+- PyQt5
+- 
 ## Installation
 
 To install the project, simply clone the repository and navigate to the project directory:
